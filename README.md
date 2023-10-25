@@ -110,5 +110,6 @@ My investigation has led me to the conclusion that the killer is **MIRANDA PRIES
 >Time to break out the champagne!"*
 
 
-**Stay tuned for more intriguing SQL mysteries!**
+**Stay tuned for more intriguing SQL mysteries!**   
+
 ![image](https://github.com/ChidimmaIdika/SQL-Murder-Mystery/assets/137975543/83361105-5b96-427a-95b0-6a8d6cc1ee6d)
